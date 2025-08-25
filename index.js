@@ -347,7 +347,7 @@
 
 // console.log(narr);
 
-//classes and inheritance
+// classes and inheritance
 // function Myclass(){
 //     this.a=10;
 //     this.b=10;
@@ -407,7 +407,7 @@
 // example2();
 // console.log("web developer");
 
-//callback//
+// callback//
 
-//promises//
-//json anf fetch api//
+// promises//
+// json anf fetch api//
