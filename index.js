@@ -411,3 +411,20 @@
 
 // promises//
 // json anf fetch api//
+
+
+//async await//
+
+// const url="any api";
+// const h1 = document.querySelector("Hello learning Javascript");
+
+// const fetchData=()=>{
+//     fetch(url)
+//     .then((response)=> response.json())
+//     .then((data)=>(h1.innerText =data.fact))
+//     .catch((e)=>console.log(e))
+//     .finally(()=>console.log("Fetched data"))
+// };
+
+// fetchData();//
+
