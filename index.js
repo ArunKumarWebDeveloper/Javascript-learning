@@ -428,3 +428,23 @@
 
 // fetchData();//
 
+// reverse a string 
+
+
+
+// var a=3;
+// var b=8;
+// var c=b;
+// b=a;
+// a=c;
+// console.log(a);
+// console.log(b);
+
+// let user1 = { name: "Arun" };
+// let user2 = user1; // user2 points to the SAME object
+// user2.name = "Hero";
+// console.log(user1.name, user2.name);
+
+// let a= 25;
+// console.log(typeof a);
+// console.log(typeof String(a));
