@@ -448,3 +448,5 @@
 // let a= 25;
 // console.log(typeof a);
 // console.log(typeof String(a));
+
+// if-else revision
