@@ -450,3 +450,14 @@
 // console.log(typeof String(a));
 
 // if-else revision
+
+
+
+
+// let x = 10;
+// if (true) {
+//   let x = 20;
+// }
+// console.log(x);
+
+// for (let i=0;i<3;i++); console.log(i);// this will break code
