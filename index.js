@@ -461,3 +461,16 @@
 // console.log(x);
 
 // for (let i=0;i<3;i++); console.log(i);// this will break code
+
+switch(3){
+    case 1:
+        console.log("execute");
+        break;
+        case 2:
+            console.log("execute2");
+            break;
+             case 3:
+                console.log("execute3");
+            break;
+            default:
+}
